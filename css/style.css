@@ -37,6 +37,10 @@ div{
 
 @keyframes Yo 
 {
+    0%{
+        background-image: linear-gradient(to right, rgb(89, 0, 255),rgb(100, 218, 64));
+    }
+
     25%{
         background-image: linear-gradient(to right, rgb(89, 0, 255),rgb(100, 218, 64));
     }
