@@ -49,6 +49,6 @@ div{
     }
 
     100%{
-        background-image: linear-gradient(to right, rgb(18, 67, 83),rgrgb(95, 19, 66)
+        background-image: linear-gradient(to right, rgb(18, 67, 83),rgb(95, 19, 66));
     }
 }
