@@ -23,3 +23,32 @@ div{
         background-image: linear-gradient(to right, lightblue,red);
     }
 }
+
+.circle {
+    animation-name:Yo;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+}
+
+
+@keyframes Yo 
+{
+    25%{
+        background-image: linear-gradient(to right, rgb(89, 0, 255),rgb(100, 218, 64));
+    }
+    50%{
+        background-image: linear-gradient(to right, rgb(15, 128, 165),rgb(19, 95, 38));
+    }
+
+    75%{
+        background-image: linear-gradient(to right, rgb(107, 60, 78),rgb(230, 195, 44));
+    }
+
+    100%{
+        background-image: linear-gradient(to right, rgb(18, 67, 83),rgrgb(95, 19, 66)
+    }
+}
