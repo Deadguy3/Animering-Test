@@ -40,7 +40,6 @@ div{
     0%{
         background-image: linear-gradient(to right, rgb(89, 0, 255),rgb(100, 218, 64));
     }
-
     25%{
         background-image: linear-gradient(to right, rgb(89, 0, 255),rgb(100, 218, 64));
     }
@@ -51,7 +50,6 @@ div{
     75%{
         background-image: linear-gradient(to right, rgb(107, 60, 78),rgb(230, 195, 44));
     }
-
     100%{
         background-image: linear-gradient(to right, rgb(18, 67, 83),rgb(95, 19, 66));
     }
